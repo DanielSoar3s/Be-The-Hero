@@ -18,7 +18,9 @@
  
  <img src="https://github.com/apsampaio/semana-omnistack-11/blob/master/git/prev.png">
  (créditos ao <a href="https://github.com/apsampaio/semana-omnistack-11">Sampaio</a> pela imagem, que inclusive seu README está muito legal!)
+ 
 
+Feito por: <a href="https://github.com/diego3g">Diego Fernandes</a>
  
  
- Desejo melhorar o código e fazer muitas alterações, segue ai para ficar ligado nelas!:ok_hand:
+###### Desejo melhorar o código e fazer muitas alterações, segue ai para ficar ligado nelas!:ok_hand:
