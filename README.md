@@ -3,16 +3,16 @@
 <img src="https://github.com/DanielObara/SemanaOmnistack11/blob/master/.github/logo.svg">
 (creditos ao DanielObara pela imagem hehe)
 
-### Projeto promovido pela <a href="https://rocketseat.com.br/">Rocketseat</a> para agregar conhecimento em programação 
+### Projeto promovido pela :rocket:<a href="https://rocketseat.com.br/">Rocketseat</a> para agregar conhecimento em programação 
 
-#### Tecnologias usadas:
+#### :rocket:Tecnologias usadas:
 - NodeJs + Express
 - React Js
 - React Native
 - SQLite 
 - Knexjs e muito mais!
 
-### Be The Hero
+### :heart:Be The Hero
  Sistema Web e Mobile onde intituições de caridade se cadastrariam para inserir prováveis casos que necessitam de doação e usuários interessados em doar.
  
  
@@ -21,4 +21,4 @@
 
  
  
- Desejo melhorar o código e fazer muitas alterações, segue ai para ficar ligado nelas!
+ Desejo melhorar o código e fazer muitas alterações, segue ai para ficar ligado nelas!:ok_hand:
